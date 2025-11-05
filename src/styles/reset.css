@@ -1,0 +1,36 @@
+*::before, *::after {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 100%;
+}
+
+body, h1, h2, h3, p, ul, ol, figure, blockquote, hr {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+input, button, textarea, select {
+    font: inherit;
+    border: none;
+    outline: none;
+}
+
+button {
+    cursor: pointer;
+}

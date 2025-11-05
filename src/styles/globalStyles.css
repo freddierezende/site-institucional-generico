@@ -1,0 +1,44 @@
+:root {
+    @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+    font-family: "Inter", sans-serif;
+
+    --brand-color-1: #4C6EF5;
+    --brand-color-2: #364FC7;
+
+    --gray-color-1: #191C1F;
+    --gray-color-2: #212529;
+    --gray-color-3: #343A40;
+    --gray-color-4: #ADB5BD;
+    --gray-color-5: #CED4DA;
+    --gray-color-6: #EDF2FF;
+    --gray-color-7: #F8F9FA;
+
+    --font-size-title1: clamp(36px, 5vw, 52px);
+    --font-weight-title1: 600;
+    --line-height-title1: 140%;
+
+    --font-size-title2: clamp(30px, 4vw, 40px);
+    --font-weight-title2: 600;
+    --line-height-title2: 160%;
+
+    --font-size-title3: clamp(24px, 3.5vw, 32px);
+    --font-weight-title3: 600;
+    --line-height-title3: 160%;
+
+    --font-size-text1: 20px;
+    --font-weight-text1: 400;
+    --line-height-text1: 150%;
+
+    --font-size-text2: 18px;
+    --font-weight-text2: 400;
+    --line-height-text2: 150%;
+
+    --font-size-text3: 16px;
+    --font-weight-text3: 400;
+    --line-height-text3: 150%;
+
+    --font-size-text4: 16px;
+    --font-weight-text4: 600;
+    --line-height-text4: 150%;
+}
